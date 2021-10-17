@@ -1,0 +1,9 @@
+name: datascience
+channels:
+    - conda-forge
+dependencies:
+    - numpy
+    - notebook
+    - random
+    - time
+    - sys
