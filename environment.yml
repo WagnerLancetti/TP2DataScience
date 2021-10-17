@@ -4,6 +4,4 @@ channels:
 dependencies:
     - numpy
     - notebook
-    - random
     - time
-    - sys
